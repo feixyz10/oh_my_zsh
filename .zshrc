@@ -75,7 +75,6 @@ plugins=(
   zsh-syntax-highlighting
   safe-paste
   sudo
-  z
   extract
   colored-man-pages
 )
